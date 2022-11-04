@@ -1,7 +1,16 @@
 # Prediccting The 2022 World Cup Winner
 
-Este proyecto consiste en realizar un modelo que permita la simulación de encuentros futbolísticos entre paises de los últimos años, esto con el fin de predecir los resultados del próximo mundial QUATAR 2022 que se iniciara en noviembre 20 de esa forma, ser un proyecto más real y creativo.
+This project consists of making a model that allows the simulation of football matches between countries in recent years, this in order to predict the results of the next QUATAR 2022 World Cup that will start on November 20, in this way, be a more real project and creative.
 
+## Methods Used
+- [] Find an VA that models the probability that a country wins a match against another country
+- [] Determine the parameters of the VA for each possible confrontation based on statistical results of the history of confrontations between these countries (goals, shots on goal, etc.)
+- [] Simulate the world cup 1,000 times
+- [] Every match will be simulated from the group stage to the final
+- [] Register the winner of the world cup
+- [] Obtain the frequencies of the winning countries of the World Cup and that will be the probability of being a world champion.
+
+Since the World Cup will be simulated 1,000 times and each World Cup has 64 matches, we would be simulating 64,000 matches.
 
 ## Getting Started
 
