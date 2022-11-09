@@ -1,5 +1,5 @@
 import pandas as pd
-
+import numpy as np
 
 def get_results_for_2_countries(df, country1, country2):
     results_of_two_countries = df.loc[((df.home_team == country1) & (df.away_team == country2)) 
@@ -100,3 +100,21 @@ def get_probs_for_WC(df): # not using results to avoid ambiguity !
     historical_ratios = historical_ratios.set_index(['country1', 'country2'])
 
     return historical_ratios
+
+def format_dataframe_from_fbref(df,country):
+    #ecuador = pd.read_csv('./data/teams/ecuador.csv',sep=';')
+    df['Date'] = pd.to_datetime(df['Date'], format='%d/%m/%Y')
+    df['opponnet'] = df['Opponent'].str.split(' ',1).str[1]
+    df.loc[df['Venue'] == 'Neutral', 'Venue'] = 'Home'
+    df['home_team'] = np.where(df['Venue'] == 'Home', country, df['opponnet'])
+    df['away_team'] = np.where(df['Venue'] == 'Away', country, df['opponnet'])
+    df['home_score'] = np.where(df['home_team'] == country, df['GF'], df['GA'])
+    df['away_score'] = np.where(df['away_team'] == country, df['GF'], df['GA'])
+    df['year'] = df['Date'].apply(lambda x : x.year)
+    df['month'] = df['Date'].apply(lambda x : x.month)
+    df['day'] = df['Date'].apply(lambda x : x.day)
+    df['home_team_wins'] = (df['home_score'] - df['away_score']) > 0
+    df['away_team_wins'] = (df['home_score'] - df['away_score']) < 0
+    df['draw'] = (df['home_score'] - df['away_score']) == 0
+    df.drop(['Opponent', 'Day','GF','GA','opponnet','Venue'], axis = 1, inplace = True)
+    return df
