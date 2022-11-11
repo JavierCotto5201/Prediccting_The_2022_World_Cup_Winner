@@ -118,3 +118,22 @@ def format_dataframe_from_fbref(df,country):
     df['draw'] = (df['home_score'] - df['away_score']) == 0
     df.drop(['Opponent', 'Day','GF','GA','opponnet','Venue'], axis = 1, inplace = True)
     return df
+
+def get_proportion(dataframe):
+    proportions = []
+    draws = []
+    matches_played = []
+    countries = dataframe['home_team'].unique()
+    for country in countries:
+        wins = len(dataframe.query("`home_team` == @country and `home_score` > `away_score`"))
+        losses = len(dataframe.query("`home_team` == @country and `home_score` < `away_score`"))
+        draws.append(len(dataframe.query("`home_team` == @country and `home_score` == `away_score`")))
+        matches_played.append(len(dataframe.query("`home_team` == @country")))
+        
+        try:
+            proportions.append(wins/losses)
+        except:
+            proportions.append(0)
+        
+    df_proportions = pd.DataFrame(list(zip(countries, proportions, draws, matches_played)), columns = ['Country', 'W/L Rate', 'Draws', 'Matches_played'])
+    return df_proportions

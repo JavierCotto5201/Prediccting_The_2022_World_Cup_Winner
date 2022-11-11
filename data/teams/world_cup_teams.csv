@@ -1,0 +1,608 @@
+Date,Comp,Result,home_team,away_team,home_score,away_score,year,month,day,home_team_wins,away_team_wins,draw
+2019-09-10,WCQ,D,Yemen,Saudi Arabia,2.0,2.0,2019,9,10,False,False,True
+2019-10-10,WCQ,W,Saudi Arabia,Singapore,3.0,0.0,2019,10,10,True,False,False
+2019-10-15,WCQ,D,Palestine,Saudi Arabia,0.0,0.0,2019,10,15,False,False,True
+2019-11-14,WCQ,W,Uzbekistan,Saudi Arabia,2.0,3.0,2019,11,14,False,True,False
+2021-03-30,WCQ,W,Saudi Arabia,Palestine,5.0,0.0,2021,3,30,True,False,False
+2021-06-05,WCQ,W,Saudi Arabia,Yemen,3.0,0.0,2021,6,5,True,False,False
+2021-06-11,WCQ,W,Singapore,Saudi Arabia,0.0,3.0,2021,6,11,False,True,False
+2021-06-15,WCQ,W,Saudi Arabia,Uzbekistan,3.0,0.0,2021,6,15,True,False,False
+2021-09-02,WCQ,W,Saudi Arabia,Vietnam,3.0,1.0,2021,9,2,True,False,False
+2021-09-07,WCQ,W,Oman,Saudi Arabia,0.0,1.0,2021,9,7,False,True,False
+2021-10-07,WCQ,W,Saudi Arabia,Japan,1.0,0.0,2021,10,7,True,False,False
+2021-10-12,WCQ,W,Saudi Arabia,China PR,3.0,2.0,2021,10,12,True,False,False
+2021-11-11,WCQ,D,Australia,Saudi Arabia,0.0,0.0,2021,11,11,False,False,True
+2021-11-16,WCQ,W,Vietnam,Saudi Arabia,0.0,1.0,2021,11,16,False,True,False
+2022-01-27,WCQ,W,Saudi Arabia,Oman,1.0,0.0,2022,1,27,True,False,False
+2022-02-01,WCQ,L,Japan,Saudi Arabia,2.0,0.0,2022,2,1,True,False,False
+2022-03-24,WCQ,D,China PR,Saudi Arabia,1.0,1.0,2022,3,24,False,False,True
+2022-03-29,WCQ,W,Saudi Arabia,Australia,1.0,0.0,2022,3,29,True,False,False
+2022-06-05,Friendlies (M),L,Saudi Arabia,Colombia,0.0,1.0,2022,6,5,False,True,False
+2022-06-09,Friendlies (M),L,Saudi Arabia,Venezuela,0.0,1.0,2022,6,9,False,True,False
+2022-09-23,Friendlies (M),D,Saudi Arabia,Ecuador,0.0,0.0,2022,9,23,False,False,True
+2022-09-27,Friendlies (M),D,Saudi Arabia,United States,0.0,0.0,2022,9,27,False,False,True
+2022-10-30,Friendlies (M),D,Saudi Arabia,Honduras,0.0,0.0,2022,10,30,False,False,True
+2022-11-06,Friendlies (M),W,Saudi Arabia,Iceland,1.0,0.0,2022,11,6,True,False,False
+2020-10-08,WCQ,W,Argentina,Ecuador,1.0,0.0,2020,10,8,True,False,False
+2020-10-13,WCQ,W,Bolivia,Argentina,1.0,2.0,2020,10,13,False,True,False
+2020-11-12,WCQ,D,Argentina,Paraguay,1.0,1.0,2020,11,12,False,False,True
+2020-11-17,WCQ,W,Peru,Argentina,0.0,2.0,2020,11,17,False,True,False
+2021-06-03,WCQ,D,Argentina,Chile,1.0,1.0,2021,6,3,False,False,True
+2021-06-08,WCQ,D,Colombia,Argentina,2.0,2.0,2021,6,8,False,False,True
+2021-09-02,WCQ,W,Venezuela,Argentina,1.0,3.0,2021,9,2,False,True,False
+2021-09-09,WCQ,W,Argentina,Bolivia,3.0,0.0,2021,9,9,True,False,False
+2021-10-07,WCQ,D,Paraguay,Argentina,0.0,0.0,2021,10,7,False,False,True
+2021-10-10,WCQ,W,Argentina,Uruguay,3.0,0.0,2021,10,10,True,False,False
+2021-10-14,WCQ,W,Argentina,Peru,1.0,0.0,2021,10,14,True,False,False
+2021-11-12,WCQ,W,Uruguay,Argentina,0.0,1.0,2021,11,12,False,True,False
+2021-11-16,WCQ,D,Argentina,Brazil,0.0,0.0,2021,11,16,False,False,True
+2022-01-27,WCQ,W,Chile,Argentina,1.0,2.0,2022,1,27,False,True,False
+2022-02-01,WCQ,W,Argentina,Colombia,1.0,0.0,2022,2,1,True,False,False
+2022-03-25,WCQ,W,Argentina,Venezuela,3.0,0.0,2022,3,25,True,False,False
+2022-03-29,WCQ,D,Ecuador,Argentina,1.0,1.0,2022,3,29,False,False,True
+2022-06-05,Friendlies (M),W,Argentina,Estonia,5.0,0.0,2022,6,5,True,False,False
+2022-09-23,Friendlies (M),W,Argentina,Honduras,3.0,0.0,2022,9,23,True,False,False
+2022-09-27,Friendlies (M),W,Argentina,Jamaica,3.0,0.0,2022,9,27,True,False,False
+2019-09-10,WCQ,W,Kuwait,Australia ,0.0,3.0,2019,9,10,False,True,False
+2019-10-10,WCQ,W,Australia ,Nepal,5.0,0.0,2019,10,10,True,False,False
+2019-10-15,WCQ,W,Chinese Taipei,Australia ,1.0,7.0,2019,10,15,False,True,False
+2019-11-14,WCQ,W,Jordan,Australia ,0.0,1.0,2019,11,14,False,True,False
+2021-06-03,WCQ,W,Australia ,Kuwait,3.0,0.0,2021,6,3,True,False,False
+2021-06-07,WCQ,W,Australia ,Chinese Taipei,5.0,1.0,2021,6,7,True,False,False
+2021-06-11,WCQ,W,Nepal,Australia ,0.0,3.0,2021,6,11,False,True,False
+2021-06-15,WCQ,W,Australia ,Jordan,1.0,0.0,2021,6,15,True,False,False
+2021-09-02,WCQ,W,Australia ,China PR,3.0,0.0,2021,9,2,True,False,False
+2021-09-07,WCQ,W,Vietnam,Australia ,0.0,1.0,2021,9,7,False,True,False
+2021-10-07,WCQ,W,Australia ,Oman,3.0,1.0,2021,10,7,True,False,False
+2021-10-12,WCQ,L,Japan,Australia ,2.0,1.0,2021,10,12,True,False,False
+2021-11-11,WCQ,D,Australia ,Saudi Arabia,0.0,0.0,2021,11,11,False,False,True
+2021-11-16,WCQ,D,China PR,Australia ,1.0,1.0,2021,11,16,False,False,True
+2022-01-27,WCQ,W,Australia ,Vietnam,4.0,0.0,2022,1,27,True,False,False
+2022-02-01,WCQ,D,Oman,Australia ,2.0,2.0,2022,2,1,False,False,True
+2022-03-24,WCQ,L,Australia ,Japan,0.0,2.0,2022,3,24,False,True,False
+2022-03-29,WCQ,L,Saudi Arabia,Australia ,1.0,0.0,2022,3,29,True,False,False
+2022-06-01,Friendlies (M),W,Australia ,Jordan,2.0,1.0,2022,6,1,True,False,False
+2022-06-07,WCQ,W,Australia ,UAE,2.0,1.0,2022,6,7,True,False,False
+2022-06-13,WCQ Play-offs,D,Australia ,Peru,0.0,0.0,2022,6,13,False,False,True
+2022-09-22,Friendlies (M),W,Australia ,New Zealand,1.0,0.0,2022,9,22,True,False,False
+2022-09-25,Friendlies (M),W,New Zealand,Australia ,0.0,2.0,2022,9,25,False,True,False
+2021-03-24,WCQ,W,Belgium,Wales,3.0,1.0,2021,3,24,True,False,False
+2021-03-27,WCQ,D,Czech Republic,Belgium,1.0,1.0,2021,3,27,False,False,True
+2021-03-30,WCQ,W,Belgium,Belarus,8.0,0.0,2021,3,30,True,False,False
+2021-09-02,WCQ,W,Estonia,Belgium,2.0,5.0,2021,9,2,False,True,False
+2021-09-05,WCQ,W,Belgium,Czech Republic,3.0,0.0,2021,9,5,True,False,False
+2021-09-08,WCQ,W,Belarus,Belgium,0.0,1.0,2021,9,8,False,True,False
+2021-11-13,WCQ,W,Belgium,Estonia,3.0,1.0,2021,11,13,True,False,False
+2021-11-16,WCQ,D,Wales,Belgium,1.0,1.0,2021,11,16,False,False,True
+2022-03-26,Friendlies (M),D,Rep. of Ireland,Belgium,2.0,2.0,2022,3,26,False,False,True
+2022-03-29,Friendlies (M),W,Belgium,Burkina Faso,3.0,0.0,2022,3,29,True,False,False
+2022-06-03,UEFA Nations League,L,Belgium,Netherlands,1.0,4.0,2022,6,3,False,True,False
+2022-06-08,UEFA Nations League,W,Belgium,Poland,6.0,1.0,2022,6,8,True,False,False
+2022-06-11,UEFA Nations League,D,Wales,Belgium,1.0,1.0,2022,6,11,False,False,True
+2022-06-14,UEFA Nations League,W,Poland,Belgium,0.0,1.0,2022,6,14,False,True,False
+2022-09-22,UEFA Nations League,W,Belgium,Wales,2.0,1.0,2022,9,22,True,False,False
+2022-09-25,UEFA Nations League,L,Netherlands,Belgium,1.0,0.0,2022,9,25,True,False,False
+2020-10-09,WCQ,W,Brazil,Bolivia,5.0,0.0,2020,10,9,True,False,False
+2020-10-13,WCQ,W,Peru,Brazil,2.0,4.0,2020,10,13,False,True,False
+2020-11-13,WCQ,W,Brazil,Venezuela,1.0,0.0,2020,11,13,True,False,False
+2020-11-17,WCQ,W,Uruguay,Brazil,0.0,2.0,2020,11,17,False,True,False
+2021-06-04,WCQ,W,Brazil,Ecuador,2.0,0.0,2021,6,4,True,False,False
+2021-06-08,WCQ,W,Paraguay,Brazil,0.0,2.0,2021,6,8,False,True,False
+2021-09-02,WCQ,W,Chile,Brazil,0.0,1.0,2021,9,2,False,True,False
+2021-09-09,WCQ,W,Brazil,Peru,2.0,0.0,2021,9,9,True,False,False
+2021-10-07,WCQ,W,Venezuela,Brazil,1.0,3.0,2021,10,7,False,True,False
+2021-10-10,WCQ,D,Colombia,Brazil,0.0,0.0,2021,10,10,False,False,True
+2021-10-14,WCQ,W,Brazil,Uruguay,4.0,1.0,2021,10,14,True,False,False
+2021-11-11,WCQ,W,Brazil,Colombia,1.0,0.0,2021,11,11,True,False,False
+2021-11-16,WCQ,D,Argentina,Brazil,0.0,0.0,2021,11,16,False,False,True
+2022-01-27,WCQ,D,Ecuador,Brazil,1.0,1.0,2022,1,27,False,False,True
+2022-02-01,WCQ,W,Brazil,Paraguay,4.0,0.0,2022,2,1,True,False,False
+2022-03-24,WCQ,W,Brazil,Chile,4.0,0.0,2022,3,24,True,False,False
+2022-03-29,WCQ,W,Bolivia,Brazil,0.0,4.0,2022,3,29,False,True,False
+2022-06-02,Friendlies (M),W,Korea Republic,Brazil,1.0,5.0,2022,6,2,False,True,False
+2022-06-06,Friendlies (M),W,Japan,Brazil,0.0,1.0,2022,6,6,False,True,False
+2022-09-23,Friendlies (M),W,Brazil,Ghana,3.0,0.0,2022,9,23,True,False,False
+2022-09-27,Friendlies (M),W,Brazil,Tunisia,5.0,1.0,2022,9,27,True,False,False
+2021-09-03,WCQ,W,Cameroon,Malawi,2.0,0.0,2021,9,3,True,False,False
+2021-09-06,WCQ,L,Côte d'Ivoire,Cameroon,2.0,1.0,2021,9,6,True,False,False
+2021-10-08,WCQ,W,Cameroon,Mozambique,3.0,1.0,2021,10,8,True,False,False
+2021-10-11,WCQ,W,Mozambique,Cameroon,0.0,1.0,2021,10,11,False,True,False
+2021-11-13,WCQ,W,Malawi,Cameroon,0.0,4.0,2021,11,13,False,True,False
+2021-11-16,WCQ,W,Cameroon,Côte d'Ivoire,1.0,0.0,2021,11,16,True,False,False
+2022-01-09,Africa Cup of Nations,W,Cameroon,Burkina Faso,2.0,1.0,2022,1,9,True,False,False
+2022-01-13,Africa Cup of Nations,W,Cameroon,Ethiopia,4.0,1.0,2022,1,13,True,False,False
+2022-01-17,Africa Cup of Nations,D,Cameroon,Cape Verde,1.0,1.0,2022,1,17,False,False,True
+2022-01-24,Africa Cup of Nations,W,Cameroon,Comoros,2.0,1.0,2022,1,24,True,False,False
+2022-01-29,Africa Cup of Nations,W,Cameroon,Gambia,2.0,0.0,2022,1,29,True,False,False
+2022-02-03,Africa Cup of Nations,D,Cameroon,Egypt,0.0,0.0,2022,2,3,False,False,True
+2022-02-05,Africa Cup of Nations,D,Cameroon,Burkina Faso,3.0,3.0,2022,2,5,False,False,True
+2022-03-25,WCQ,L,Cameroon,Algeria,0.0,1.0,2022,3,25,False,True,False
+2022-03-29,WCQ,W,Algeria,Cameroon,1.0,2.0,2022,3,29,False,True,False
+2022-06-09,Africa Cup of Nations qualification,W,Cameroon,Burundi,1.0,0.0,2022,6,9,True,False,False
+2022-09-23,Friendlies (M),L,Cameroon,Uzbekistan,0.0,2.0,2022,9,23,False,True,False
+2022-09-27,Friendlies (M),L,Korea Republic,Cameroon,1.0,0.0,2022,9,27,True,False,False
+2021-03-25,WCQ,W,Canada,Bermuda,5.0,1.0,2021,3,25,True,False,False
+2021-03-29,WCQ,W,Cayman Islands,Canada,0.0,11.0,2021,3,29,False,True,False
+2021-06-05,WCQ,W,Aruba,Canada,0.0,7.0,2021,6,5,False,True,False
+2021-06-08,WCQ,W,Canada,Suriname,4.0,0.0,2021,6,8,True,False,False
+2021-06-12,WCQ,W,Haiti,Canada,0.0,1.0,2021,6,12,False,True,False
+2021-06-15,WCQ,W,Canada,Haiti,3.0,0.0,2021,6,15,True,False,False
+2021-09-02,WCQ,D,Canada,Honduras,1.0,1.0,2021,9,2,False,False,True
+2021-09-05,WCQ,D,United States,Canada,1.0,1.0,2021,9,5,False,False,True
+2021-09-08,WCQ,W,Canada,El Salvador,3.0,0.0,2021,9,8,True,False,False
+2021-10-07,WCQ,D,Mexico,Canada,1.0,1.0,2021,10,7,False,False,True
+2021-10-10,WCQ,D,Jamaica,Canada,0.0,0.0,2021,10,10,False,False,True
+2021-10-13,WCQ,W,Canada,Panama,4.0,1.0,2021,10,13,True,False,False
+2021-11-12,WCQ,W,Canada,Costa Rica,1.0,0.0,2021,11,12,True,False,False
+2021-11-16,WCQ,W,Canada,Mexico,2.0,1.0,2021,11,16,True,False,False
+2022-01-27,WCQ,W,Honduras,Canada,0.0,2.0,2022,1,27,False,True,False
+2022-01-30,WCQ,W,Canada,United States,2.0,0.0,2022,1,30,True,False,False
+2022-02-02,WCQ,W,El Salvador,Canada,0.0,2.0,2022,2,2,False,True,False
+2022-03-24,WCQ,L,Costa Rica,Canada,1.0,0.0,2022,3,24,True,False,False
+2022-03-27,WCQ,W,Canada,Jamaica,4.0,0.0,2022,3,27,True,False,False
+2022-03-30,WCQ,L,Panama,Canada,1.0,0.0,2022,3,30,True,False,False
+2022-09-23,Friendlies (M),W,Canada,Qatar,2.0,0.0,2022,9,23,True,False,False
+2022-09-27,Friendlies (M),L,Canada,Uruguay,0.0,2.0,2022,9,27,False,True,False
+2021-09-02,WCQ,D,Panama,Costa Rica,0.0,0.0,2021,9,2,False,False,True
+2021-09-05,WCQ,L,Costa Rica,Mexico,0.0,1.0,2021,9,5,False,True,False
+2021-09-08,WCQ,D,Costa Rica,Jamaica,1.0,1.0,2021,9,8,False,False,True
+2021-10-07,WCQ,D,Honduras,Costa Rica,0.0,0.0,2021,10,7,False,False,True
+2021-10-10,WCQ,W,Costa Rica,El Salvador,2.0,1.0,2021,10,10,True,False,False
+2021-10-13,WCQ,L,United States,Costa Rica,2.0,1.0,2021,10,13,True,False,False
+2021-11-12,WCQ,L,Canada,Costa Rica,1.0,0.0,2021,11,12,True,False,False
+2021-11-16,WCQ,W,Costa Rica,Honduras,2.0,1.0,2021,11,16,True,False,False
+2022-01-27,WCQ,W,Costa Rica,Panama,1.0,0.0,2022,1,27,True,False,False
+2022-01-30,WCQ,D,Mexico,Costa Rica,0.0,0.0,2022,1,30,False,False,True
+2022-02-02,WCQ,W,Jamaica,Costa Rica,0.0,1.0,2022,2,2,False,True,False
+2022-03-24,WCQ,W,Costa Rica,Canada,1.0,0.0,2022,3,24,True,False,False
+2022-03-27,WCQ,W,El Salvador,Costa Rica,1.0,2.0,2022,3,27,False,True,False
+2022-03-30,WCQ,W,Costa Rica,United States,2.0,0.0,2022,3,30,True,False,False
+2022-06-14,WCQ Play-offs,W,Costa Rica,New Zealand,1.0,0.0,2022,6,14,True,False,False
+2022-09-23,Friendlies (M),D,Korea Republic,Costa Rica,2.0,2.0,2022,9,23,False,False,True
+2022-09-27,Friendlies (M),W,Costa Rica,Uzbekistan,2.0,1.0,2022,9,27,True,False,False
+2021-03-24,WCQ,L,Slovenia,Croatia,1.0,0.0,2021,3,24,True,False,False
+2021-03-27,WCQ,W,Croatia,Cyprus,1.0,0.0,2021,3,27,True,False,False
+2021-03-30,WCQ,W,Croatia,Malta,3.0,0.0,2021,3,30,True,False,False
+2021-09-01,WCQ,D,Russia,Croatia,0.0,0.0,2021,9,1,False,False,True
+2021-09-04,WCQ,W,Slovakia,Croatia,0.0,1.0,2021,9,4,False,True,False
+2021-09-07,WCQ,W,Croatia,Slovenia,3.0,0.0,2021,9,7,True,False,False
+2021-10-08,WCQ,W,Cyprus,Croatia,0.0,3.0,2021,10,8,False,True,False
+2021-10-11,WCQ,D,Croatia,Slovakia,2.0,2.0,2021,10,11,False,False,True
+2021-11-11,WCQ,W,Malta,Croatia,1.0,7.0,2021,11,11,False,True,False
+2021-11-14,WCQ,W,Croatia,Russia,1.0,0.0,2021,11,14,True,False,False
+2022-03-26,Friendlies (M),D,Croatia,Slovenia,1.0,1.0,2022,3,26,False,False,True
+2022-03-29,Friendlies (M),W,Croatia,Bulgaria,2.0,1.0,2022,3,29,True,False,False
+2022-06-03,UEFA Nations League,L,Croatia,Austria,0.0,3.0,2022,6,3,False,True,False
+2022-06-06,UEFA Nations League,D,Croatia,France,1.0,1.0,2022,6,6,False,False,True
+2022-06-10,UEFA Nations League,W,Denmark,Croatia,0.0,1.0,2022,6,10,False,True,False
+2022-06-13,UEFA Nations League,W,France,Croatia,0.0,1.0,2022,6,13,False,True,False
+2022-09-22,UEFA Nations League,W,Croatia,Denmark,2.0,1.0,2022,9,22,True,False,False
+2022-09-25,UEFA Nations League,W,Austria,Croatia,1.0,3.0,2022,9,25,False,True,False
+2021-03-25,WCQ,W,Israel,Denmark,0.0,2.0,2021,3,25,False,True,False
+2021-03-28,WCQ,W,Denmark,Moldova,8.0,0.0,2021,3,28,True,False,False
+2021-03-31,WCQ,W,Austria,Denmark,0.0,4.0,2021,3,31,False,True,False
+2021-09-01,WCQ,W,Denmark,Scotland,2.0,0.0,2021,9,1,True,False,False
+2021-09-04,WCQ,W,Faroe Islands,Denmark,0.0,1.0,2021,9,4,False,True,False
+2021-09-07,WCQ,W,Denmark,Israel,5.0,0.0,2021,9,7,True,False,False
+2021-10-09,WCQ,W,Moldova,Denmark,0.0,4.0,2021,10,9,False,True,False
+2021-10-12,WCQ,W,Denmark,Austria,1.0,0.0,2021,10,12,True,False,False
+2021-11-12,WCQ,W,Denmark,Faroe Islands,3.0,1.0,2021,11,12,True,False,False
+2021-11-15,WCQ,L,Scotland,Denmark,2.0,0.0,2021,11,15,True,False,False
+2022-03-26,Friendlies (M),L,Netherlands,Denmark,4.0,2.0,2022,3,26,True,False,False
+2022-03-29,Friendlies (M),W,Denmark,Serbia,3.0,0.0,2022,3,29,True,False,False
+2022-06-03,UEFA Nations League,W,France,Denmark,1.0,2.0,2022,6,3,False,True,False
+2022-06-06,UEFA Nations League,W,Austria,Denmark,1.0,2.0,2022,6,6,False,True,False
+2022-06-10,UEFA Nations League,L,Denmark,Croatia,0.0,1.0,2022,6,10,False,True,False
+2022-06-13,UEFA Nations League,W,Denmark,Austria,2.0,0.0,2022,6,13,True,False,False
+2022-09-22,UEFA Nations League,L,Croatia,Denmark,2.0,1.0,2022,9,22,True,False,False
+2022-09-25,UEFA Nations League,W,Denmark,France,2.0,0.0,2022,9,25,True,False,False
+2020-10-08,WCQ,L,Argentina,Ecuador,1.0,0.0,2020,10,8,True,False,False
+2020-10-13,WCQ,W,Ecuador,Uruguay,4.0,2.0,2020,10,13,True,False,False
+2020-11-12,WCQ,W,Bolivia,Ecuador,2.0,3.0,2020,11,12,False,True,False
+2020-11-17,WCQ,W,Ecuador,Colombia,6.0,1.0,2020,11,17,True,False,False
+2021-06-04,WCQ,L,Brazil,Ecuador,2.0,0.0,2021,6,4,True,False,False
+2021-06-08,WCQ,L,Ecuador,Peru,1.0,2.0,2021,6,8,False,True,False
+2021-09-02,WCQ,W,Ecuador,Paraguay,2.0,0.0,2021,9,2,True,False,False
+2021-09-05,WCQ,D,Ecuador,Chile,0.0,0.0,2021,9,5,False,False,True
+2021-09-09,WCQ,L,Uruguay,Ecuador,1.0,0.0,2021,9,9,True,False,False
+2021-10-07,WCQ,W,Ecuador,Bolivia,3.0,0.0,2021,10,7,True,False,False
+2021-10-10,WCQ,L,Venezuela,Ecuador,2.0,1.0,2021,10,10,True,False,False
+2021-10-14,WCQ,D,Colombia,Ecuador,0.0,0.0,2021,10,14,False,False,True
+2021-11-11,WCQ,W,Ecuador,Venezuela,1.0,0.0,2021,11,11,True,False,False
+2021-11-16,WCQ,W,Chile,Ecuador,0.0,2.0,2021,11,16,False,True,False
+2022-01-27,WCQ,D,Ecuador,Brazil,1.0,1.0,2022,1,27,False,False,True
+2022-02-01,WCQ,D,Peru,Ecuador,1.0,1.0,2022,2,1,False,False,True
+2022-03-24,WCQ,L,Paraguay,Ecuador,3.0,1.0,2022,3,24,True,False,False
+2022-03-29,WCQ,D,Ecuador,Argentina,1.0,1.0,2022,3,29,False,False,True
+2022-06-02,Friendlies,W,Ecuador,Nigeria,1.0,0.0,2022,6,2,True,False,False
+2022-06-05,Friendlies,D,Ecuador,Mexico,0.0,0.0,2022,6,5,False,False,True
+2022-06-11,Friendlies,W,Ecuador,Cape Verde,1.0,0.0,2022,6,11,True,False,False
+2022-09-23,Friendlies,D,Ecuador,Saudi Arabia,0.0,0.0,2022,9,23,False,False,True
+2022-09-27,Friendlies,D,Ecuador,Japan,0.0,0.0,2022,9,27,False,False,True
+2022-11-12,Friendlies,,Ecuador,Iraq,,,2022,11,12,False,False,False
+2022-11-20,World Cup,,Ecuador,Qatar,,,2022,11,20,False,False,False
+2022-11-25,World Cup,,Ecuador,Netherlands,,,2022,11,25,False,False,False
+2022-11-29,World Cup,,Ecuador,Senegal,,,2022,11,29,False,False,False
+2021-03-25,WCQ,W,England,San Marino,5.0,0.0,2021,3,25,True,False,False
+2021-03-28,WCQ,W,Albania,England,0.0,2.0,2021,3,28,False,True,False
+2021-03-31,WCQ,W,England,Poland,2.0,1.0,2021,3,31,True,False,False
+2021-09-02,WCQ,W,Hungary,England,0.0,4.0,2021,9,2,False,True,False
+2021-09-05,WCQ,W,England,Andorra,4.0,0.0,2021,9,5,True,False,False
+2021-09-08,WCQ,D,Poland,England,1.0,1.0,2021,9,8,False,False,True
+2021-10-09,WCQ,W,Andorra,England,0.0,5.0,2021,10,9,False,True,False
+2021-10-12,WCQ,D,England,Hungary,1.0,1.0,2021,10,12,False,False,True
+2021-11-12,WCQ,W,England,Albania,5.0,0.0,2021,11,12,True,False,False
+2021-11-15,WCQ,W,San Marino,England,0.0,10.0,2021,11,15,False,True,False
+2022-03-26,Friendlies (M),W,England,Switzerland,2.0,1.0,2022,3,26,True,False,False
+2022-03-29,Friendlies (M),W,England,Côte d'Ivoire,3.0,0.0,2022,3,29,True,False,False
+2022-06-04,UEFA Nations League,L,Hungary,England,1.0,0.0,2022,6,4,True,False,False
+2022-06-07,UEFA Nations League,D,Germany,England,1.0,1.0,2022,6,7,False,False,True
+2022-06-11,UEFA Nations League,D,England,Italy,0.0,0.0,2022,6,11,False,False,True
+2022-06-14,UEFA Nations League,L,England,Hungary,0.0,4.0,2022,6,14,False,True,False
+2022-09-23,UEFA Nations League,L,Italy,England,1.0,0.0,2022,9,23,True,False,False
+2022-09-26,UEFA Nations League,D,England,Germany,3.0,3.0,2022,9,26,False,False,True
+2021-03-24,WCQ,D,France,Ukraine,1.0,1.0,2021,3,24,False,False,True
+2021-03-28,WCQ,W,Kazakhstan,France,0.0,2.0,2021,3,28,False,True,False
+2021-03-31,WCQ,W,Bosnia & Herz'na,France,0.0,1.0,2021,3,31,False,True,False
+2021-09-01,WCQ,D,France,Bosnia & Herz'na,1.0,1.0,2021,9,1,False,False,True
+2021-09-04,WCQ,D,Ukraine,France,1.0,1.0,2021,9,4,False,False,True
+2021-09-07,WCQ,W,France,Finland,2.0,0.0,2021,9,7,True,False,False
+2021-11-13,WCQ,W,France,Kazakhstan,8.0,0.0,2021,11,13,True,False,False
+2021-11-16,WCQ,W,Finland,France,0.0,2.0,2021,11,16,False,True,False
+2022-03-25,Friendlies (M),W,France,Côte d'Ivoire,2.0,1.0,2022,3,25,True,False,False
+2022-03-29,Friendlies (M),W,France,South Africa,5.0,0.0,2022,3,29,True,False,False
+2022-06-03,UEFA Nations League,L,France,Denmark,1.0,2.0,2022,6,3,False,True,False
+2022-06-06,UEFA Nations League,D,Croatia,France,1.0,1.0,2022,6,6,False,False,True
+2022-06-10,UEFA Nations League,D,Austria,France,1.0,1.0,2022,6,10,False,False,True
+2022-06-13,UEFA Nations League,L,France,Croatia,0.0,1.0,2022,6,13,False,True,False
+2022-09-22,UEFA Nations League,W,France,Austria,2.0,0.0,2022,9,22,True,False,False
+2022-09-25,UEFA Nations League,L,Denmark,France,2.0,0.0,2022,9,25,True,False,False
+2021-03-25,WCQ,W,Germany,Iceland,3.0,0.0,2021,3,25,True,False,False
+2021-03-28,WCQ,W,Romania,Germany,0.0,1.0,2021,3,28,False,True,False
+2021-03-31,WCQ,L,Germany,N. Macedonia,1.0,2.0,2021,3,31,False,True,False
+2021-09-02,WCQ,W,Liechtenstein,Germany,0.0,2.0,2021,9,2,False,True,False
+2021-09-05,WCQ,W,Germany,Armenia,6.0,0.0,2021,9,5,True,False,False
+2021-09-08,WCQ,W,Iceland,Germany,0.0,4.0,2021,9,8,False,True,False
+2021-10-08,WCQ,W,Germany,Romania,2.0,1.0,2021,10,8,True,False,False
+2021-10-11,WCQ,W,N. Macedonia,Germany,0.0,4.0,2021,10,11,False,True,False
+2021-11-11,WCQ,W,Germany,Liechtenstein,9.0,0.0,2021,11,11,True,False,False
+2021-11-14,WCQ,W,Armenia,Germany,1.0,4.0,2021,11,14,False,True,False
+2022-03-26,Friendlies (M),W,Germany,Israel,2.0,0.0,2022,3,26,True,False,False
+2022-03-29,Friendlies (M),D,Netherlands,Germany,1.0,1.0,2022,3,29,False,False,True
+2022-06-04,UEFA Nations League,D,Italy,Germany,1.0,1.0,2022,6,4,False,False,True
+2022-06-07,UEFA Nations League,D,Germany,England,1.0,1.0,2022,6,7,False,False,True
+2022-06-11,UEFA Nations League,D,Hungary,Germany,1.0,1.0,2022,6,11,False,False,True
+2022-06-14,UEFA Nations League,W,Germany,Italy,5.0,2.0,2022,6,14,True,False,False
+2022-09-23,UEFA Nations League,L,Germany,Hungary,0.0,1.0,2022,9,23,False,True,False
+2022-09-26,UEFA Nations League,D,England,Germany,3.0,3.0,2022,9,26,False,False,True
+2021-09-03,WCQ,W,Ghana,Ethiopia,1.0,0.0,2021,9,3,True,False,False
+2021-09-06,WCQ,L,South Africa,Ghana,1.0,0.0,2021,9,6,True,False,False
+2021-10-09,WCQ,W,Ghana,Zimbabwe,3.0,1.0,2021,10,9,True,False,False
+2021-10-12,WCQ,W,Zimbabwe,Ghana,0.0,1.0,2021,10,12,False,True,False
+2021-11-11,WCQ,D,Ethiopia,Ghana,1.0,1.0,2021,11,11,False,False,True
+2021-11-14,WCQ,W,Ghana,South Africa,1.0,0.0,2021,11,14,True,False,False
+2022-01-05,Friendlies (M),L,Ghana,Algeria,0.0,3.0,2022,1,5,False,True,False
+2022-01-10,Africa Cup of Nations,L,Ghana,Morocco,0.0,1.0,2022,1,10,False,True,False
+2022-01-14,Africa Cup of Nations,D,Ghana,Gabon,1.0,1.0,2022,1,14,False,False,True
+2022-01-18,Africa Cup of Nations,L,Ghana,Comoros,2.0,3.0,2022,1,18,False,True,False
+2022-03-25,WCQ,D,Ghana,Nigeria,0.0,0.0,2022,3,25,False,False,True
+2022-03-29,WCQ,D,Nigeria,Ghana,1.0,1.0,2022,3,29,False,False,True
+2022-06-01,Africa Cup of Nations qualification,W,Ghana,Madagascar,3.0,0.0,2022,6,1,True,False,False
+2022-06-05,Africa Cup of Nations qualification,D,Ghana,CAR,1.0,1.0,2022,6,5,False,False,True
+2022-09-23,Friendlies (M),L,Ghana,Brazil,0.0,3.0,2022,9,23,False,True,False
+2022-09-27,Friendlies (M),W,Ghana,Nicaragua,1.0,0.0,2022,9,27,True,False,False
+2021-03-24,WCQ,L,Turkey,Netherlands,4.0,2.0,2021,3,24,True,False,False
+2021-03-27,WCQ,W,Netherlands,Latvia,2.0,0.0,2021,3,27,True,False,False
+2021-03-30,WCQ,W,Gibraltar,Netherlands,0.0,7.0,2021,3,30,False,True,False
+2021-09-01,WCQ,D,Norway,Netherlands,1.0,1.0,2021,9,1,False,False,True
+2021-09-04,WCQ,W,Netherlands,Montenegro,4.0,0.0,2021,9,4,True,False,False
+2021-09-07,WCQ,W,Netherlands,Turkey,6.0,1.0,2021,9,7,True,False,False
+2021-10-08,WCQ,W,Latvia,Netherlands,0.0,1.0,2021,10,8,False,True,False
+2021-10-11,WCQ,W,Netherlands,Gibraltar,6.0,0.0,2021,10,11,True,False,False
+2021-11-13,WCQ,D,Montenegro,Netherlands,2.0,2.0,2021,11,13,False,False,True
+2021-11-16,WCQ,W,Netherlands,Norway,2.0,0.0,2021,11,16,True,False,False
+2022-03-26,Friendlies (M),W,Netherlands,Denmark,4.0,2.0,2022,3,26,True,False,False
+2022-03-29,Friendlies (M),D,Netherlands,Germany,1.0,1.0,2022,3,29,False,False,True
+2022-06-03,UEFA Nations League,W,Belgium,Netherlands,1.0,4.0,2022,6,3,False,True,False
+2022-06-08,UEFA Nations League,W,Wales,Netherlands,1.0,2.0,2022,6,8,False,True,False
+2022-06-11,UEFA Nations League,D,Netherlands,Poland,2.0,2.0,2022,6,11,False,False,True
+2022-06-14,UEFA Nations League,W,Netherlands,Wales,3.0,2.0,2022,6,14,True,False,False
+2022-09-22,UEFA Nations League,W,Poland,Netherlands,0.0,2.0,2022,9,22,False,True,False
+2022-09-25,UEFA Nations League,W,Netherlands,Belgium,1.0,0.0,2022,9,25,True,False,False
+2019-09-10,WCQ,W,Hong Kong,IR Iran,0.0,2.0,2019,9,10,False,True,False
+2019-10-10,WCQ,W,IR Iran,Cambodia,14.0,0.0,2019,10,10,True,False,False
+2019-10-15,WCQ,L,Bahrain,IR Iran,1.0,0.0,2019,10,15,True,False,False
+2019-11-14,WCQ,L,Iraq,IR Iran,2.0,1.0,2019,11,14,True,False,False
+2021-06-03,WCQ,W,IR Iran,Hong Kong,3.0,1.0,2021,6,3,True,False,False
+2021-06-07,WCQ,W,IR Iran,Bahrain,3.0,0.0,2021,6,7,True,False,False
+2021-06-11,WCQ,W,Cambodia,IR Iran,0.0,10.0,2021,6,11,False,True,False
+2021-06-15,WCQ,W,IR Iran,Iraq,1.0,0.0,2021,6,15,True,False,False
+2021-09-02,WCQ,W,IR Iran,Syria,1.0,0.0,2021,9,2,True,False,False
+2021-09-07,WCQ,W,Iraq,IR Iran,0.0,3.0,2021,9,7,False,True,False
+2021-10-07,WCQ,W,UAE,IR Iran,0.0,1.0,2021,10,7,False,True,False
+2021-10-12,WCQ,D,IR Iran,Korea Republic,1.0,1.0,2021,10,12,False,False,True
+2021-11-11,WCQ,W,Lebanon,IR Iran,1.0,2.0,2021,11,11,False,True,False
+2021-11-16,WCQ,W,Syria,IR Iran,0.0,3.0,2021,11,16,False,True,False
+2022-01-27,WCQ,W,IR Iran,Iraq,1.0,0.0,2022,1,27,True,False,False
+2022-02-01,WCQ,W,IR Iran,UAE,1.0,0.0,2022,2,1,True,False,False
+2022-03-24,WCQ,L,Korea Republic,IR Iran,2.0,0.0,2022,3,24,True,False,False
+2022-03-29,WCQ,W,IR Iran,Lebanon,2.0,0.0,2022,3,29,True,False,False
+2022-06-12,Friendlies (M),L,IR Iran,Algeria,1.0,2.0,2022,6,12,False,True,False
+2022-09-23,Friendlies (M),W,IR Iran,Uruguay,1.0,0.0,2022,9,23,True,False,False
+2022-09-27,Friendlies (M),D,IR Iran,Senegal,1.0,1.0,2022,9,27,False,False,True
+2019-09-10,WCQ,W,Myanmar,Japan,0.0,2.0,2019,9,10,False,True,False
+2019-10-10,WCQ,W,Japan,Mongolia,6.0,0.0,2019,10,10,True,False,False
+2019-10-15,WCQ,W,Tajikistan,Japan,0.0,3.0,2019,10,15,False,True,False
+2019-11-14,WCQ,W,Kyrgyz Republic,Japan,0.0,2.0,2019,11,14,False,True,False
+2021-03-30,WCQ,W,Mongolia,Japan,0.0,14.0,2021,3,30,False,True,False
+2021-05-28,WCQ,W,Japan,Myanmar,10.0,0.0,2021,5,28,True,False,False
+2021-06-07,WCQ,W,Japan,Tajikistan,4.0,1.0,2021,6,7,True,False,False
+2021-06-15,WCQ,W,Japan,Kyrgyz Republic,5.0,1.0,2021,6,15,True,False,False
+2021-09-02,WCQ,L,Japan,Oman,0.0,1.0,2021,9,2,False,True,False
+2021-09-07,WCQ,W,China PR,Japan,0.0,1.0,2021,9,7,False,True,False
+2021-10-07,WCQ,L,Saudi Arabia,Japan,1.0,0.0,2021,10,7,True,False,False
+2021-10-12,WCQ,W,Japan,Australia,2.0,1.0,2021,10,12,True,False,False
+2021-11-11,WCQ,W,Vietnam,Japan,0.0,1.0,2021,11,11,False,True,False
+2021-11-16,WCQ,W,Oman,Japan,0.0,1.0,2021,11,16,False,True,False
+2022-01-27,WCQ,W,Japan,China PR,2.0,0.0,2022,1,27,True,False,False
+2022-02-01,WCQ,W,Japan,Saudi Arabia,2.0,0.0,2022,2,1,True,False,False
+2022-03-24,WCQ,W,Australia,Japan,0.0,2.0,2022,3,24,False,True,False
+2022-03-29,WCQ,D,Japan,Vietnam,1.0,1.0,2022,3,29,False,False,True
+2022-06-02,Friendlies (M),W,Japan,Paraguay,4.0,1.0,2022,6,2,True,False,False
+2022-06-06,Friendlies (M),L,Japan,Brazil,0.0,1.0,2022,6,6,False,True,False
+2022-09-23,Friendlies (M),W,Japan,United States,2.0,0.0,2022,9,23,True,False,False
+2022-09-27,Friendlies (M),D,Japan,Ecuador,0.0,0.0,2022,9,27,False,False,True
+2019-09-10,WCQ,W,Turkmenistan,Korea Republic,0.0,2.0,2019,9,10,False,True,False
+2019-10-10,WCQ,W,Korea Republic,Sri Lanka,8.0,0.0,2019,10,10,True,False,False
+2019-11-14,WCQ,D,Lebanon,Korea Republic,0.0,0.0,2019,11,14,False,False,True
+2021-06-05,WCQ,W,Korea Republic,Turkmenistan,5.0,0.0,2021,6,5,True,False,False
+2021-06-09,WCQ,W,Sri Lanka,Korea Republic,0.0,5.0,2021,6,9,False,True,False
+2021-06-13,WCQ,W,Korea Republic,Lebanon,2.0,1.0,2021,6,13,True,False,False
+2021-09-02,WCQ,D,Korea Republic,Iraq,0.0,0.0,2021,9,2,False,False,True
+2021-09-07,WCQ,W,Korea Republic,Lebanon,1.0,0.0,2021,9,7,True,False,False
+2021-10-07,WCQ,W,Korea Republic,Syria,2.0,1.0,2021,10,7,True,False,False
+2021-10-12,WCQ,D,IR Iran,Korea Republic,1.0,1.0,2021,10,12,False,False,True
+2021-11-11,WCQ,W,Korea Republic,UAE,1.0,0.0,2021,11,11,True,False,False
+2021-11-16,WCQ,W,Iraq,Korea Republic,0.0,3.0,2021,11,16,False,True,False
+2022-01-15,Friendlies (M),W,Korea Republic,Iceland,5.0,1.0,2022,1,15,True,False,False
+2022-01-21,Friendlies (M),W,Korea Republic,Moldova,4.0,0.0,2022,1,21,True,False,False
+2022-01-27,WCQ,W,Lebanon,Korea Republic,0.0,1.0,2022,1,27,False,True,False
+2022-02-01,WCQ,W,Korea Republic,Syria,2.0,0.0,2022,2,1,True,False,False
+2022-03-24,WCQ,W,Korea Republic,IR Iran,2.0,0.0,2022,3,24,True,False,False
+2022-03-29,WCQ,L,UAE,Korea Republic,1.0,0.0,2022,3,29,True,False,False
+2022-06-02,Friendlies (M),L,Korea Republic,Brazil,1.0,5.0,2022,6,2,False,True,False
+2022-06-06,Friendlies (M),W,Korea Republic,Chile,2.0,0.0,2022,6,6,True,False,False
+2022-06-10,Friendlies (M),D,Korea Republic,Paraguay,2.0,2.0,2022,6,10,False,False,True
+2022-06-14,Friendlies (M),W,Korea Republic,Egypt,4.0,1.0,2022,6,14,True,False,False
+2022-09-23,Friendlies (M),D,Korea Republic,Costa Rica,2.0,2.0,2022,9,23,False,False,True
+2022-09-27,Friendlies (M),W,Korea Republic,Cameroon,1.0,0.0,2022,9,27,True,False,False
+2021-09-02,WCQ,W,Mexico,Jamaica,2.0,1.0,2021,9,2,True,False,False
+2021-09-05,WCQ,W,Costa Rica,Mexico,0.0,1.0,2021,9,5,False,True,False
+2021-09-08,WCQ,D,Panama,Mexico,1.0,1.0,2021,9,8,False,False,True
+2021-10-07,WCQ,D,Mexico,Canada,1.0,1.0,2021,10,7,False,False,True
+2021-10-10,WCQ,W,Mexico,Honduras,3.0,0.0,2021,10,10,True,False,False
+2021-10-13,WCQ,W,El Salvador,Mexico,0.0,2.0,2021,10,13,False,True,False
+2021-11-12,WCQ,L,United States,Mexico,2.0,0.0,2021,11,12,True,False,False
+2021-11-16,WCQ,L,Canada,Mexico,2.0,1.0,2021,11,16,True,False,False
+2022-01-27,WCQ,W,Jamaica,Mexico,1.0,2.0,2022,1,27,False,True,False
+2022-01-30,WCQ,D,Mexico,Costa Rica,0.0,0.0,2022,1,30,False,False,True
+2022-02-02,WCQ,W,Mexico,Panama,1.0,0.0,2022,2,2,True,False,False
+2022-03-24,WCQ,D,Mexico,United States,0.0,0.0,2022,3,24,False,False,True
+2022-03-27,WCQ,W,Honduras,Mexico,0.0,1.0,2022,3,27,False,True,False
+2022-03-30,WCQ,W,Mexico,El Salvador,2.0,0.0,2022,3,30,True,False,False
+2022-04-27,Friendlies (M),D,Mexico,Guatemala,0.0,0.0,2022,4,27,False,False,True
+2022-05-28,Friendlies (M),W,Mexico,Nigeria,2.0,1.0,2022,5,28,True,False,False
+2022-06-02,Friendlies (M),L,Mexico,Uruguay,0.0,3.0,2022,6,2,False,True,False
+2022-06-05,Friendlies (M),D,Mexico,Ecuador,0.0,0.0,2022,6,5,False,False,True
+2022-08-31,Friendlies (M),L,Mexico,Paraguay,0.0,1.0,2022,8,31,False,True,False
+2022-09-24,Friendlies (M),W,Mexico,Peru,1.0,0.0,2022,9,24,True,False,False
+2022-09-27,Friendlies (M),L,Mexico,Colombia,2.0,3.0,2022,9,27,False,True,False
+2022-11-09,Friendlies (M),,Mexico,Iraq,,,2022,11,9,False,False,False
+2022-11-16,Friendlies (M),,Mexico,Sweden,,,2022,11,16,False,False,False
+2022-11-22,World Cup,,Mexico,Poland,,,2022,11,22,False,False,False
+2022-11-26,World Cup,,Mexico,Argentina,,,2022,11,26,False,False,False
+2022-11-30,World Cup,,Mexico,Saudi Arabia,,,2022,11,30,False,False,False
+2021-09-02,WCQ,W,Morocco,Sudan,2.0,0.0,2021,9,2,True,False,False
+2021-10-06,WCQ,W,Morocco,Guinea-Bissau,5.0,0.0,2021,10,6,True,False,False
+2021-10-09,WCQ,W,Guinea-Bissau,Morocco,0.0,3.0,2021,10,9,False,True,False
+2021-10-12,WCQ,W,Guinea,Morocco,1.0,4.0,2021,10,12,False,True,False
+2021-11-12,WCQ,W,Sudan,Morocco,0.0,3.0,2021,11,12,False,True,False
+2021-11-16,WCQ,W,Morocco,Guinea,3.0,0.0,2021,11,16,True,False,False
+2022-01-10,Africa Cup of Nations,W,Morocco,Ghana,1.0,0.0,2022,1,10,True,False,False
+2022-01-14,Africa Cup of Nations,W,Morocco,Comoros,2.0,0.0,2022,1,14,True,False,False
+2022-01-18,Africa Cup of Nations,D,Morocco,Gabon,2.0,2.0,2022,1,18,False,False,True
+2022-01-25,Africa Cup of Nations,W,Morocco,Malawi,2.0,1.0,2022,1,25,True,False,False
+2022-01-30,Africa Cup of Nations,L,Morocco,Egypt,1.0,2.0,2022,1,30,False,True,False
+2022-03-25,WCQ,D,Congo DR,Morocco,1.0,1.0,2022,3,25,False,False,True
+2022-03-29,WCQ,W,Morocco,Congo DR,4.0,1.0,2022,3,29,True,False,False
+2022-06-01,Friendlies (M),L,United States,Morocco,3.0,0.0,2022,6,1,True,False,False
+2022-06-09,Africa Cup of Nations qualification,W,Morocco,South Africa,2.0,1.0,2022,6,9,True,False,False
+2022-06-13,Africa Cup of Nations qualification,W,Morocco,Liberia,2.0,0.0,2022,6,13,True,False,False
+2022-09-23,Friendlies (M),W,Morocco,Chile,2.0,0.0,2022,9,23,True,False,False
+2022-09-27,Friendlies (M),D,Morocco,Paraguay,0.0,0.0,2022,9,27,False,False,True
+2021-03-25,WCQ,D,Hungary,Poland,3.0,3.0,2021,3,25,False,False,True
+2021-03-28,WCQ,W,Poland,Andorra,3.0,0.0,2021,3,28,True,False,False
+2021-03-31,WCQ,L,England,Poland,2.0,1.0,2021,3,31,True,False,False
+2021-09-02,WCQ,W,Poland,Albania,4.0,1.0,2021,9,2,True,False,False
+2021-09-05,WCQ,W,San Marino,Poland,1.0,7.0,2021,9,5,False,True,False
+2021-09-08,WCQ,D,Poland,England,1.0,1.0,2021,9,8,False,False,True
+2021-10-09,WCQ,W,Poland,San Marino,5.0,0.0,2021,10,9,True,False,False
+2021-10-12,WCQ,W,Albania,Poland,0.0,1.0,2021,10,12,False,True,False
+2021-11-12,WCQ,W,Andorra,Poland,1.0,4.0,2021,11,12,False,True,False
+2021-11-15,WCQ,L,Poland,Hungary,1.0,2.0,2021,11,15,False,True,False
+2022-03-24,Friendlies (M),D,Scotland,Poland,1.0,1.0,2022,3,24,False,False,True
+2022-03-29,WCQ,W,Poland,Sweden,2.0,0.0,2022,3,29,True,False,False
+2022-06-01,UEFA Nations League,W,Poland,Wales,2.0,1.0,2022,6,1,True,False,False
+2022-06-08,UEFA Nations League,L,Belgium,Poland,6.0,1.0,2022,6,8,True,False,False
+2022-06-11,UEFA Nations League,D,Netherlands,Poland,2.0,2.0,2022,6,11,False,False,True
+2022-06-14,UEFA Nations League,L,Poland,Belgium,0.0,1.0,2022,6,14,False,True,False
+2022-09-22,UEFA Nations League,L,Poland,Netherlands,0.0,2.0,2022,9,22,False,True,False
+2022-09-25,UEFA Nations League,W,Wales,Poland,0.0,1.0,2022,9,25,False,True,False
+2021-03-24,WCQ,W,Portugal,Azerbaijan,1.0,0.0,2021,3,24,True,False,False
+2021-03-27,WCQ,D,Serbia,Portugal,2.0,2.0,2021,3,27,False,False,True
+2021-03-30,WCQ,W,Luxembourg,Portugal,1.0,3.0,2021,3,30,False,True,False
+2021-09-01,WCQ,W,Portugal,Rep. of Ireland,2.0,1.0,2021,9,1,True,False,False
+2021-09-07,WCQ,W,Azerbaijan,Portugal,0.0,3.0,2021,9,7,False,True,False
+2021-10-12,WCQ,W,Portugal,Luxembourg,5.0,0.0,2021,10,12,True,False,False
+2021-11-11,WCQ,D,Rep. of Ireland,Portugal,0.0,0.0,2021,11,11,False,False,True
+2021-11-14,WCQ,L,Portugal,Serbia,1.0,2.0,2021,11,14,False,True,False
+2022-03-24,WCQ,W,Portugal,Turkey,3.0,1.0,2022,3,24,True,False,False
+2022-03-29,WCQ,W,Portugal,N. Macedonia,2.0,0.0,2022,3,29,True,False,False
+2022-06-02,UEFA Nations League,D,Spain,Portugal,1.0,1.0,2022,6,2,False,False,True
+2022-06-05,UEFA Nations League,W,Portugal,Switzerland,4.0,0.0,2022,6,5,True,False,False
+2022-06-09,UEFA Nations League,W,Portugal,Czech Republic,2.0,0.0,2022,6,9,True,False,False
+2022-06-12,UEFA Nations League,L,Switzerland,Portugal,1.0,0.0,2022,6,12,True,False,False
+2022-09-24,UEFA Nations League,W,Czech Republic,Portugal,0.0,4.0,2022,9,24,False,True,False
+2022-09-27,UEFA Nations League,L,Portugal,Spain,0.0,1.0,2022,9,27,False,True,False
+2019-09-05,WCQ,W,Qatar,Afghanistan,6.0,0.0,2019,9,5,True,False,False
+2019-09-10,WCQ,D,Qatar,India,0.0,0.0,2019,9,10,False,False,True
+2019-10-10,WCQ,W,Bangladesh,Qatar,0.0,2.0,2019,10,10,False,True,False
+2019-10-15,WCQ,W,Qatar,Oman,2.0,1.0,2019,10,15,True,False,False
+2019-11-19,WCQ,W,Qatar,Afghanistan,1.0,0.0,2019,11,19,True,False,False
+2020-12-04,WCQ,W,Qatar,Bangladesh,5.0,0.0,2020,12,4,True,False,False
+2021-06-03,WCQ,W,India,Qatar,0.0,1.0,2021,6,3,False,True,False
+2021-06-07,WCQ,W,Oman,Qatar,0.0,1.0,2021,6,7,False,True,False
+2022-03-26,Friendlies (M),W,Qatar,Bulgaria,2.0,1.0,2022,3,26,True,False,False
+2022-03-29,Friendlies (M),D,Qatar,Slovenia,0.0,0.0,2022,3,29,False,False,True
+2022-08-26,Friendlies (M),D,Qatar,Jamaica,1.0,1.0,2022,8,26,False,False,True
+2022-09-23,Friendlies (M),L,Qatar,Canada,0.0,2.0,2022,9,23,False,True,False
+2022-09-27,Friendlies (M),D,Qatar,Chile,2.0,2.0,2022,9,27,False,False,True
+2021-09-01,WCQ,W,Senegal,Togo,2.0,0.0,2021,9,1,True,False,False
+2021-09-07,WCQ,W,Congo,Senegal,1.0,3.0,2021,9,7,False,True,False
+2021-10-09,WCQ,W,Senegal,Namibia,4.0,1.0,2021,10,9,True,False,False
+2021-10-12,WCQ,W,Namibia,Senegal,1.0,3.0,2021,10,12,False,True,False
+2021-11-11,WCQ,D,Togo,Senegal,1.0,1.0,2021,11,11,False,False,True
+2021-11-14,WCQ,W,Senegal,Congo,2.0,0.0,2021,11,14,True,False,False
+2022-01-10,Africa Cup of Nations,W,Senegal,Zimbabwe,1.0,0.0,2022,1,10,True,False,False
+2022-01-14,Africa Cup of Nations,D,Senegal,Guinea,0.0,0.0,2022,1,14,False,False,True
+2022-01-18,Africa Cup of Nations,D,Senegal,Malawi,0.0,0.0,2022,1,18,False,False,True
+2022-01-25,Africa Cup of Nations,W,Senegal,Cape Verde,2.0,0.0,2022,1,25,True,False,False
+2022-01-30,Africa Cup of Nations,W,Senegal,Equ. Guinea,3.0,1.0,2022,1,30,True,False,False
+2022-02-02,Africa Cup of Nations,W,Senegal,Burkina Faso,3.0,1.0,2022,2,2,True,False,False
+2022-02-06,Africa Cup of Nations,D,Senegal,Egypt,0.0,0.0,2022,2,6,False,False,True
+2022-03-25,WCQ,L,Egypt,Senegal,1.0,0.0,2022,3,25,True,False,False
+2022-03-29,WCQ,W,Senegal,Egypt,1.0,0.0,2022,3,29,True,False,False
+2022-06-04,Africa Cup of Nations qualification,W,Senegal,Benin,3.0,1.0,2022,6,4,True,False,False
+2022-06-07,Africa Cup of Nations qualification,W,Rwanda,Senegal,0.0,1.0,2022,6,7,False,True,False
+2022-09-24,Friendlies (M),W,Senegal,Bolivia,2.0,0.0,2022,9,24,True,False,False
+2022-09-27,Friendlies (M),D,Senegal,IR Iran,1.0,1.0,2022,9,27,False,False,True
+2021-03-24,WCQ,W,Serbia,Rep. of Ireland,3.0,2.0,2021,3,24,True,False,False
+2021-03-27,WCQ,D,Serbia,Portugal,2.0,2.0,2021,3,27,False,False,True
+2021-03-30,WCQ,W,Azerbaijan,Serbia,1.0,2.0,2021,3,30,False,True,False
+2021-09-04,WCQ,W,Serbia,Luxembourg,4.0,1.0,2021,9,4,True,False,False
+2021-09-07,WCQ,D,Rep. of Ireland,Serbia,1.0,1.0,2021,9,7,False,False,True
+2021-10-09,WCQ,W,Luxembourg,Serbia,0.0,1.0,2021,10,9,False,True,False
+2021-10-12,WCQ,W,Serbia,Azerbaijan,3.0,1.0,2021,10,12,True,False,False
+2021-11-14,WCQ,W,Portugal,Serbia,1.0,2.0,2021,11,14,False,True,False
+2022-03-24,Friendlies (M),W,Hungary,Serbia,0.0,1.0,2022,3,24,False,True,False
+2022-03-29,Friendlies (M),L,Denmark,Serbia,3.0,0.0,2022,3,29,True,False,False
+2022-06-02,UEFA Nations League,L,Serbia,Norway,0.0,1.0,2022,6,2,False,True,False
+2022-06-05,UEFA Nations League,W,Serbia,Slovenia,4.0,1.0,2022,6,5,True,False,False
+2022-06-09,UEFA Nations League,W,Sweden,Serbia,0.0,1.0,2022,6,9,False,True,False
+2022-06-12,UEFA Nations League,D,Slovenia,Serbia,2.0,2.0,2022,6,12,False,False,True
+2022-09-24,UEFA Nations League,W,Serbia,Sweden,4.0,1.0,2022,9,24,True,False,False
+2022-09-27,UEFA Nations League,W,Norway,Serbia,0.0,2.0,2022,9,27,False,True,False
+2021-03-25,WCQ,D,Spain,Greece,1.0,1.0,2021,3,25,False,False,True
+2021-03-28,WCQ,W,Georgia,Spain,1.0,2.0,2021,3,28,False,True,False
+2021-03-31,WCQ,W,Spain,Kosovo,3.0,1.0,2021,3,31,True,False,False
+2021-09-02,WCQ,L,Sweden,Spain,2.0,1.0,2021,9,2,True,False,False
+2021-09-05,WCQ,W,Spain,Georgia,4.0,0.0,2021,9,5,True,False,False
+2021-09-08,WCQ,W,Kosovo,Spain,0.0,2.0,2021,9,8,False,True,False
+2021-11-11,WCQ,W,Greece,Spain,0.0,1.0,2021,11,11,False,True,False
+2021-11-14,WCQ,W,Spain,Sweden,1.0,0.0,2021,11,14,True,False,False
+2022-03-26,Friendlies (M),W,Spain,Albania,2.0,1.0,2022,3,26,True,False,False
+2022-03-29,Friendlies (M),W,Spain,Iceland,5.0,0.0,2022,3,29,True,False,False
+2022-06-02,UEFA Nations League,D,Spain,Portugal,1.0,1.0,2022,6,2,False,False,True
+2022-06-05,UEFA Nations League,D,Czech Republic,Spain,2.0,2.0,2022,6,5,False,False,True
+2022-06-09,UEFA Nations League,W,Switzerland,Spain,0.0,1.0,2022,6,9,False,True,False
+2022-06-12,UEFA Nations League,W,Spain,Czech Republic,2.0,0.0,2022,6,12,True,False,False
+2022-09-24,UEFA Nations League,L,Spain,Switzerland,1.0,2.0,2022,9,24,False,True,False
+2022-09-27,UEFA Nations League,W,Portugal,Spain,0.0,1.0,2022,9,27,False,True,False
+2021-03-25,WCQ,W,Bulgaria,Switzerland,1.0,3.0,2021,3,25,False,True,False
+2021-03-28,WCQ,W,Switzerland,Lithuania,1.0,0.0,2021,3,28,True,False,False
+2021-09-05,WCQ,D,Switzerland,Italy,0.0,0.0,2021,9,5,False,False,True
+2021-09-08,WCQ,D,Northern Ireland,Switzerland,0.0,0.0,2021,9,8,False,False,True
+2021-10-09,WCQ,W,Switzerland,Northern Ireland,2.0,0.0,2021,10,9,True,False,False
+2021-10-12,WCQ,W,Lithuania,Switzerland,0.0,4.0,2021,10,12,False,True,False
+2021-11-12,WCQ,D,Italy,Switzerland,1.0,1.0,2021,11,12,False,False,True
+2021-11-15,WCQ,W,Switzerland,Bulgaria,4.0,0.0,2021,11,15,True,False,False
+2022-03-26,Friendlies (M),L,England,Switzerland,2.0,1.0,2022,3,26,True,False,False
+2022-03-29,Friendlies (M),D,Switzerland,Kosovo,1.0,1.0,2022,3,29,False,False,True
+2022-06-02,UEFA Nations League,L,Czech Republic,Switzerland,2.0,1.0,2022,6,2,True,False,False
+2022-06-05,UEFA Nations League,L,Portugal,Switzerland,4.0,0.0,2022,6,5,True,False,False
+2022-06-09,UEFA Nations League,L,Switzerland,Spain,0.0,1.0,2022,6,9,False,True,False
+2022-06-12,UEFA Nations League,W,Switzerland,Portugal,1.0,0.0,2022,6,12,True,False,False
+2022-09-24,UEFA Nations League,W,Spain,Switzerland,1.0,2.0,2022,9,24,False,True,False
+2022-09-27,UEFA Nations League,W,Switzerland,Czech Republic,2.0,1.0,2022,9,27,True,False,False
+2021-09-03,WCQ,W,Tunisia,Equ. Guinea,3.0,0.0,2021,9,3,True,False,False
+2021-09-07,WCQ,W,Zambia,Tunisia,0.0,2.0,2021,9,7,False,True,False
+2021-10-07,WCQ,W,Tunisia,Mauritania,3.0,0.0,2021,10,7,True,False,False
+2021-10-10,WCQ,D,Mauritania,Tunisia,0.0,0.0,2021,10,10,False,False,True
+2021-11-13,WCQ,L,Equ. Guinea,Tunisia,1.0,0.0,2021,11,13,True,False,False
+2021-11-16,WCQ,W,Tunisia,Zambia,3.0,1.0,2021,11,16,True,False,False
+2022-01-12,Africa Cup of Nations,L,Tunisia,Mali,0.0,1.0,2022,1,12,False,True,False
+2022-01-16,Africa Cup of Nations,W,Tunisia,Mauritania,4.0,0.0,2022,1,16,True,False,False
+2022-01-20,Africa Cup of Nations,L,Tunisia,Gambia,0.0,1.0,2022,1,20,False,True,False
+2022-01-23,Africa Cup of Nations,W,Tunisia,Nigeria,1.0,0.0,2022,1,23,True,False,False
+2022-01-29,Africa Cup of Nations,L,Tunisia,Burkina Faso,0.0,1.0,2022,1,29,False,True,False
+2022-03-25,WCQ,W,Mali,Tunisia,0.0,1.0,2022,3,25,False,True,False
+2022-03-29,WCQ,D,Tunisia,Mali,0.0,0.0,2022,3,29,False,False,True
+2022-06-02,Africa Cup of Nations qualification,W,Tunisia,Equ. Guinea,4.0,0.0,2022,6,2,True,False,False
+2022-06-05,Africa Cup of Nations qualification,D,Botswana,Tunisia,0.0,0.0,2022,6,5,False,False,True
+2022-09-22,Friendlies (M),W,Tunisia,Comoros,1.0,0.0,2022,9,22,True,False,False
+2022-09-27,Friendlies (M),L,Tunisia,Brazil,1.0,5.0,2022,9,27,False,True,False
+2020-10-08,WCQ,W,Uruguay,Chile,2.0,1.0,2020,10,8,True,False,False
+2020-10-13,WCQ,L,Ecuador,Uruguay,4.0,2.0,2020,10,13,True,False,False
+2020-11-13,WCQ,W,Colombia,Uruguay,0.0,3.0,2020,11,13,False,True,False
+2020-11-17,WCQ,L,Uruguay,Brazil,0.0,2.0,2020,11,17,False,True,False
+2021-06-03,WCQ,D,Uruguay,Paraguay,0.0,0.0,2021,6,3,False,False,True
+2021-06-08,WCQ,D,Venezuela,Uruguay,0.0,0.0,2021,6,8,False,False,True
+2021-09-02,WCQ,D,Peru,Uruguay,1.0,1.0,2021,9,2,False,False,True
+2021-09-05,WCQ,W,Uruguay,Bolivia,4.0,2.0,2021,9,5,True,False,False
+2021-09-09,WCQ,W,Uruguay,Ecuador,1.0,0.0,2021,9,9,True,False,False
+2021-10-07,WCQ,D,Uruguay,Colombia,0.0,0.0,2021,10,7,False,False,True
+2021-10-10,WCQ,L,Argentina,Uruguay,3.0,0.0,2021,10,10,True,False,False
+2021-10-14,WCQ,L,Brazil,Uruguay,4.0,1.0,2021,10,14,True,False,False
+2021-11-12,WCQ,L,Uruguay,Argentina,0.0,1.0,2021,11,12,False,True,False
+2021-11-16,WCQ,L,Bolivia,Uruguay,3.0,0.0,2021,11,16,True,False,False
+2022-01-27,WCQ,W,Paraguay,Uruguay,0.0,1.0,2022,1,27,False,True,False
+2022-02-01,WCQ,W,Uruguay,Venezuela,4.0,1.0,2022,2,1,True,False,False
+2022-03-24,WCQ,W,Uruguay,Peru,1.0,0.0,2022,3,24,True,False,False
+2022-03-29,WCQ,W,Chile,Uruguay,0.0,2.0,2022,3,29,False,True,False
+2022-06-02,Friendlies (M),W,Uruguay,Mexico,3.0,0.0,2022,6,2,True,False,False
+2022-09-23,Friendlies (M),L,Uruguay,IR Iran,0.0,1.0,2022,9,23,False,True,False
+2022-09-27,Friendlies (M),W,Canada,Uruguay,0.0,2.0,2022,9,27,False,True,False
+2021-09-02,WCQ,D,El Salvador,United States,0.0,0.0,2021,9,2,False,False,True
+2021-09-05,WCQ,D,United States,Canada,1.0,1.0,2021,9,5,False,False,True
+2021-09-08,WCQ,W,Honduras,United States,1.0,4.0,2021,9,8,False,True,False
+2021-10-07,WCQ,W,United States,Jamaica,2.0,0.0,2021,10,7,True,False,False
+2021-10-10,WCQ,L,Panama,United States,1.0,0.0,2021,10,10,True,False,False
+2021-10-13,WCQ,W,United States,Costa Rica,2.0,1.0,2021,10,13,True,False,False
+2021-11-12,WCQ,W,United States,Mexico,2.0,0.0,2021,11,12,True,False,False
+2021-11-16,WCQ,D,Jamaica,United States,1.0,1.0,2021,11,16,False,False,True
+2022-01-27,WCQ,W,United States,El Salvador,1.0,0.0,2022,1,27,True,False,False
+2022-01-30,WCQ,L,Canada,United States,2.0,0.0,2022,1,30,True,False,False
+2022-02-02,WCQ,W,United States,Honduras,3.0,0.0,2022,2,2,True,False,False
+2022-03-24,WCQ,D,Mexico,United States,0.0,0.0,2022,3,24,False,False,True
+2022-03-27,WCQ,W,United States,Panama,5.0,1.0,2022,3,27,True,False,False
+2022-03-30,WCQ,L,Costa Rica,United States,2.0,0.0,2022,3,30,True,False,False
+2022-06-01,Friendlies (M),W,United States,Morocco,3.0,0.0,2022,6,1,True,False,False
+2022-09-23,Friendlies (M),L,United States,Japan,0.0,2.0,2022,9,23,False,True,False
+2022-09-27,Friendlies (M),D,Saudi Arabia,United States,0.0,0.0,2022,9,27,False,False,True
+2021-03-24,WCQ,L,Belgium,Wales,3.0,1.0,2021,3,24,True,False,False
+2021-03-30,WCQ,W,Wales,Czech Republic,1.0,0.0,2021,3,30,True,False,False
+2021-09-05,WCQ,W,Belarus,Wales,2.0,3.0,2021,9,5,False,True,False
+2021-09-08,WCQ,D,Wales,Estonia,0.0,0.0,2021,9,8,False,False,True
+2021-10-08,WCQ,D,Czech Republic,Wales,2.0,2.0,2021,10,8,False,False,True
+2021-10-11,WCQ,W,Estonia,Wales,0.0,1.0,2021,10,11,False,True,False
+2021-11-13,WCQ,W,Wales,Belarus,5.0,1.0,2021,11,13,True,False,False
+2021-11-16,WCQ,D,Wales,Belgium,1.0,1.0,2021,11,16,False,False,True
+2022-03-24,WCQ,W,Wales,Austria,2.0,1.0,2022,3,24,True,False,False
+2022-03-29,Friendlies (M),D,Wales,Czech Republic,1.0,1.0,2022,3,29,False,False,True
+2022-06-01,UEFA Nations League,L,Poland,Wales,2.0,1.0,2022,6,1,True,False,False
+2022-06-05,WCQ,W,Wales,Ukraine,1.0,0.0,2022,6,5,True,False,False
+2022-06-08,UEFA Nations League,L,Wales,Netherlands,1.0,2.0,2022,6,8,False,True,False
+2022-06-11,UEFA Nations League,D,Wales,Belgium,1.0,1.0,2022,6,11,False,False,True
+2022-06-14,UEFA Nations League,L,Netherlands,Wales,3.0,2.0,2022,6,14,True,False,False
+2022-09-22,UEFA Nations League,L,Belgium,Wales,2.0,1.0,2022,9,22,True,False,False
+2022-09-25,UEFA Nations League,L,Wales,Poland,0.0,1.0,2022,9,25,False,True,False
