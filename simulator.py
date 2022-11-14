@@ -7,6 +7,7 @@ import plotly.offline as py
 import random
 from sklearn.model_selection import train_test_split
 from helper import *
+import seaborn as sns
 
 
 # load df 
@@ -136,6 +137,7 @@ def get_result_for_match(team1,team2):
     team2_fbref = hist_proba_qatar_teams_fbref.loc[(team2)].mean().to_list()[1:]
     # swap two positions 
     team2_fbref[0], team2_fbref[1] = team2_fbref[1], team2_fbref[0]
+    team2_wc[0], team2_wc[1] = team2_wc[1], team2_wc[0]
     
     team1_team2= [x+y for x,y in zip(historic,fbref)]
     team1_team2= [x+y for x,y in zip(team1_team2,team1_fbref)]
@@ -279,6 +281,13 @@ def simulate_final():
     return result
 
 def clean_dfs():
+    global qatar_teams
+    global knockout_stage
+    global round_16
+    global quarter_finals
+    global semi_finals
+    global third_place
+    global final
     qatar_teams['Points'] = 0
     knockout_stage = schudule[schudule['phase'] != 'group matches']
     round_16 = schudule[schudule['phase'] == 'round 16']
@@ -322,14 +331,36 @@ def sim_world_cup(num):
     #print(winners)
     return winners
 
-print(sim_world_cup(10))
-print(sim_world_cup(20))
-print(sim_world_cup(30))
-print(sim_world_cup(40))
-print(sim_world_cup(50))
-print(sim_world_cup(10))
-print(sim_world_cup(20))
-print(sim_world_cup(30))
-print(sim_world_cup(40))
-print(sim_world_cup(50))
-print(sim_world_cup(100))
+sns.set_theme(style="whitegrid")
+sns.set(rc={'figure.figsize':(14,10)})
+def graph_probs(winners, num):
+    countries = winners.keys()
+    probs = winners.values()
+    data = {
+        'country': countries,
+        'probs': probs
+    } 
+    df = pd.DataFrame.from_dict(data)
+    # Draw a nested barplot by Team and Step
+    
+    g = sns.barplot(data=df, x="probs",y='country',estimator=sum, palette="dark", alpha=.6)
+    g.set(title = 'Probabilities of a Country to win The World Cup in ' + str(num) + ' simulations')
+    plt.show()
+    
+num = 100
+graph_probs(sim_world_cup(num),num)
+
+num = 250
+graph_probs(sim_world_cup(num),num)
+
+num = 500
+graph_probs(sim_world_cup(num),num)
+
+num = 750
+graph_probs(sim_world_cup(num),num)
+
+num = 1000
+graph_probs(sim_world_cup(num),num)
+
+num = 10000
+graph_probs(sim_world_cup(num),num)
